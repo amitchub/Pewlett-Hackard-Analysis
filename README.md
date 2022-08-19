@@ -52,7 +52,7 @@ ORDER BY 2 DESC
 
 The results of the preceeding query are displayed in the following table:
 
-![Retiring Titles](https://github.com/amitchub/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility_table.png)
+![Retiring Titles](https://github.com/amitchub/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles_table.png)
 
 ### Employees Eligible for Mentorship Program
 
