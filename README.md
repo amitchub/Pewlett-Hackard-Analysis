@@ -80,10 +80,3 @@ ORDER BY employees.emp_no
 The results of the preceeding query are displayed in the following table:
 
 ![Mentorship Eligibility](https://github.com/amitchub/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility_table.png)
-
-### Summary of Analysis Results
-- A total of 90,398 employees are of retirement-age.
-- Half of the retirees have "Engineer" in their title, making up 50.2% of the retiring population. Retirees with "Staff" in their title make up another 44.8%. The remaining 5% includes Technique Leaders and Managers.
-- A total of 1,940 employees are eligible to be mentors in the mentorship program.
-- There are roughly 2 mentors for every 90 vacancies.
-
