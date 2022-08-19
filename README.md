@@ -79,7 +79,7 @@ ORDER BY employees.emp_no
 
 The results of the preceeding query are displayed in the following table:
 
-![Mentorship Eligibility](./Resources/mentorship_eligibility_table.PNG)
+![Mentorship Eligibility](https://github.com/amitchub/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility_table.png)
 
 ### Summary of Analysis Results
 - A total of 90,398 employees are of retirement-age.
